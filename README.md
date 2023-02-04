@@ -7,7 +7,7 @@ explore other locations and aqcuire items that will aid them in their journey. E
 must fight their way to their destination.
 
 # Features
-This game features a round-based battle system where the player and the opposing NPC (non-playable character) will take turns choosing actions. The player has the choice to attack, defend, heal, or flee battle. If the player's health reaches zero or below, the game will end. This game also includes a inventory system where the player can view their respective character stats, obtain, use, manage, and discard items.
+This game features a round-based battle system where the player and the opposing NPC (non-playable character) will take turns choosing actions. The player has the choice to attack, defend, heal, or flee battle. If the player's health reaches zero or below, the game will end. This game also includes an inventory system where the player can view their respective character stats, obtain, use, manage, and discard items.
 
 # How To Play:
 - Use any text editor or IDE that supports, compiles, and executes the Scala programming language and simply run the script.
