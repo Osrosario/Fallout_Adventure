@@ -3,7 +3,7 @@ This project was completed to fufill an assignment for my Programming and Proble
 
 # Story
 *Fallout Adventure* is a text-based adventure game based off Bethesda's *Fallout* series where the player exits his/her vault to explore the radiation-filled landscape. The story is written using the "Strings of Pearl" story-telling method that has branching paths but concludes to a single ending. The player will have the choice to 
-explore other locations and aqcuire items that will aid them in their journey. Encounters with the radiated wild life are inevitable and the player 
+explore other locations and acquire items that will aid them in their journey. Encounters with the radiated wild life are inevitable and the player 
 must fight their way to their destination.
 
 # Features
